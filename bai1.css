@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.cha1{
+    border: 2px solid red;
+    background-color: aliceblue;
+    position: fixed;
+    margin-top: 20px;
+    width: 1000px;
+    height: 500px;
+
+}
+.cha2{
+    border: 2px solid black;
+    position: absolute;
+    margin-top: 700px;
+}
+.cha .con1{
+    background-color: blue;
+}
+.cha .con2{
+    background-color: green;
+}
+.cha .con3{
+    background-color: gray;
+}
